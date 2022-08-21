@@ -18,4 +18,4 @@ app.config['JSON_AS_ASCII'] = False
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", post=8080)
+    app.run()
